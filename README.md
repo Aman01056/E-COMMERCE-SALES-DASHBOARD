@@ -59,5 +59,5 @@ This project is licensed under the **MIT License** — see the `LICENSE` file fo
 ## 👤 Author
 
 **AMAN SHAKYA**  
-📫 [Email](shakyaaman8920@gmail.com) • 💼 [https://www.linkedin.com/in/aman-shakya-b3b3292bb/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bsb1h7I%2BhQlCJGNgrmxCwdA%3D%3D](#) • 🌐 [Portfolio](#)
+📫 [Email](shakyaaman8920@gmail.com) • 💼 [https://www.linkedin.com/in/aman-shakya-b3b3292bb/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bsb1h7I%2BhQlCJGNgrmxCwdA%3D%3D](#) • 🌐 [https://acrobat.adobe.com/id/urn:aaid:sc:AP:ae8beb45-31e7-43de-a703-9808068971a7](#)
 

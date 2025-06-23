@@ -18,7 +18,7 @@ Key visualizations and metrics included:
 ---
 
 ## 🧰 Tech Stack
-- [Power BI Desktop](https://powerbi.microsoft.com/)
+- [Power BI Desktop]()
 - Built-in visuals (Bar, Line, Map, Matrix, Cards)
 - Interactive slicers and filters
 
